@@ -3,9 +3,9 @@
 
 ### Front End
 仕様技術
-・JavaScript(React)
+\・JavaScript(React)
 
 
 ### Back End
 仕様技術
-・python
+\・python
